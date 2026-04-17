@@ -10,7 +10,7 @@ use branch code
 
 使用
 npm install 
-修改source/_posts/xxx.md
+修改source/_posts/xxx.md、/_config.yml、/themes/redefine/_config.yml
 hexo server
 
 部署
